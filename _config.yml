@@ -200,6 +200,7 @@ exclude:
   - /screenshots
   - /test
   - /vendor
+    _site/feed.xml
 
 defaults:
   - scope:
